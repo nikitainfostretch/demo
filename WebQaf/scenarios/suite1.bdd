@@ -1,0 +1,14 @@
+
+
+SCENARIO: Flipcart order verification
+META-DATA: {"description":"Home page","key":"appdata.category"}
+	
+	Given navigate to home page category 
+	When Select category '${name}'
+	Then Select Lowest Price Item From List  
+	When user select product from product list
+	Then user add product to cart
+	And verify product has been added in cart
+	
+END
+

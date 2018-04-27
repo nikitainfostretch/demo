@@ -1,0 +1,15 @@
+Cart.Addto.btn = {\"locator\":\"xpath=.//a[@class='_3NFO0d _2f5Jjv']\",\"desc\":\"Addtocart icon\"}
+filter.lowestOrder.btn = {\"locator\":\"xpath=(.//*[@class='_2Ylh8t'])[1]\",\"desc\":\"lowest order button\"}
+filter.lowestPrice.btn = {\"locator\":\"xpath=(.//div[@class='_1vC4OE _2rQ-NK'])[1]\",\"desc\":\"filter for lowest price\"}
+cart.removeproduct.btn = {\"locator\":\"xpath=.//span[contains(text(),'Remove')]\",\"desc\":\"Remove button on product cart\"}
+cart.Add.btn = {\"locator\":\"xpath=.//button[@class='_2AkmmA _2Npkh4 _2MWPVK']\",\"desc\":\"Add button to add product in cart\"}
+home.logo.img = {\"locator\":\"xpath=.//img[@title='Flipkart']\",\"desc\":\"flipcart logo on home Page\"}
+login.close.btn = {\"locator\":\"xpath=//button[@class='_2AkmmA _29YdH8']\",\"desc\":\"close button on walkthrough\"}
+verifycart.Product.img = {\"locator\":\"css=._2AkmmA._14O7kc._7UHT_c\",\"desc\":\"product on addtocart\"}
+select.subcategory.btn = {\"locator\":\"xpath=.//p[text()='%s']\",\"desc\":\"sub-category\"}
+homepage.category.btn = {\"locator\":\"xpath=//span[text()='Electronics']\",\"desc\":\"category of products\"}
+homepage.subcategory.btn = {\"locator\":\"xpath=.//a[@title='Apple']\",\"desc\":\"sub-category of products\"}
+productdetail.productPrice.img = {\"locator\":\"xpath=.//div[@class='_1vC4OE _2rQ-NK']\",\"desc\":\"list of searched Product Price\"}
+productdetail.Productname.img = {\"locator\":\"xpath=.//div[@class='_3wU53n']\",\"desc\":\"list of searched Product name\"}
+productdetail.Productlist.img = {\"locator\":\"xpath=.//div[@class='_1-2Iqu row']\",\"desc\":\"list of all searched product\"}
+select.productdetailpage.img = {\"locator\":\"xpath=(.//a[@class='_1UoZlX'])[1]\",\"desc\":\"product detail page\"}

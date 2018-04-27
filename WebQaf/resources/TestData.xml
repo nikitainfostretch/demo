@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+	<appdata>
+		<category>
+			<name>iPad</name>
+		</category>
+     <category> 
+			<name>Mac</name>
+		</category> 
+	</appdata>
+</root>
